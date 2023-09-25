@@ -2,8 +2,8 @@
 layout: post
 title: Injeciton
 date: 2023-09-17
-categories: Web hacking
-tags: [Web hacking], [SQL Injection]
+categories:
+tags: [Web hacking]
 ---
 
 # 목차
