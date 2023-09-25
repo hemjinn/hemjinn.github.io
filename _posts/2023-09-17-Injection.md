@@ -7,10 +7,10 @@ tags: "Web hacking"
 ---
 
 # 목차
-[1. SQL Injection 이란?](2023-09-17-Injection.md#1-SQL-Injection-이란)<br>
+[1. SQL Injection 이란?](2023-09-17-Injection.md#1-sql-injection-이란)<br>
 [1.1 공격 목적](2023-09-17-Injection.md#1.1-공격-목적)<br>
 [1.2 실습](2023-09-17-Injection.md#1.2-실습)<br>
-[1.3 어째서 SQL Injection 공격이 성립하는 것일까?](2023-09-17-Injection.md#1.3-어째서-SQL-Injection-공격이-성립하는-것일까)
+[1.3 어째서 SQL Injection 공격이 성립하는 것일까?](2023-09-17-Injection.md#1.3-어째서-sql-injection-공격이-성립하는-것일까)
 
 
 # 1. SQL Injection 이란?
