@@ -12,11 +12,10 @@ layout: archive
       {% endif %}
     </p>
   </header>
-<div class="list-group my-3">
-  <a class="list-group-item active disabled text-white">목차</a>
-{% include toc.html html=content %}
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
 </div>
-{{ content }}
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
