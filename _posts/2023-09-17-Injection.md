@@ -1,10 +1,10 @@
 ---
 title: "SQL Injeciton"
 categories:
-- Injection
+- injection
 tags:
-- WebHacking
-- SQL Injeciton
+- webhacking
+- sql injeciton
 last_modified_at: 2023-09-17
 ---
 
