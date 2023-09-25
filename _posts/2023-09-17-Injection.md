@@ -1,12 +1,8 @@
 ---
 layout: post
-current: post
-navigation: True
 title: Injeciton
 categories: Web hacking
 tags: [Web hacking], [SQL Injection]
-class: post-template
-author: hemjin
 ---
 
 # 목차
