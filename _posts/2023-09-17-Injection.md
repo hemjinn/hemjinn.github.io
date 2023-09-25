@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: post
 title: Injeciton
 date: 2023-09-17
 categories: Web hacking
