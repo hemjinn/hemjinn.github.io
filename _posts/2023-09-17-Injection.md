@@ -64,7 +64,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 
 <br>
 
-![테스트계정 로그인2](./assets/23.09.17/loginTest.png)<br>
+![테스트계정 로그인2](assets/23.09.17/loginTest.png)<br>
 [그림4] 테스트 계정으로 로그인 된 화면
 
 <br>
@@ -74,7 +74,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 <br> 
 실습을 위해 admin 계정도 미리 만들어 두었고, 이제부터 SQL Injection 테스트를 해 볼 것 입니다.
 
-![test인젝션](./assets/23.09.17/testInjection2.png)<br>
+![test인젝션](assets/23.09.17/testInjection2.png)<br>
 [그림5] sql injection 테스트
 
 <br>
