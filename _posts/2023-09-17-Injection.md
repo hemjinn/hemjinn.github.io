@@ -6,7 +6,6 @@ title: Injeciton
 categories: Web hacking
 tags: [Web hacking], [SQL Injection]
 class: post-template
-subclass: "post-subclass"
 author: hemjin
 ---
 
