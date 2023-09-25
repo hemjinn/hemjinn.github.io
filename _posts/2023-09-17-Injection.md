@@ -37,7 +37,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 
 <br>
 
-![로그인 페이지](./../assets/23.09.17/loginpage.png)<br>
+![로그인 페이지](./assets/23.09.17/loginpage.png)<br>
               [그림 1] 로그인 페이지
 <br>
 
@@ -45,7 +45,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 
 <br>
 
-![로그인 처리코드](./../assets/23.09.17/loginprocess.png)<br>
+![로그인 처리코드](./assets/23.09.17/loginprocess.png)<br>
               [그림 2] 로그인 입력값 처리 코드
 <br>
 
@@ -57,7 +57,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 
 <br>
 
-![테스트계정 로그인](./../assets/23.09.17/loginToTest.png)<br>
+![테스트계정 로그인](./assets/23.09.17/loginToTest.png)<br>
               [그림3] 테스트 계정 로그인 시도
 <br>
 
@@ -65,7 +65,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 
 <br>
 
-![테스트계정 로그인2](./../assets/23.09.17/loginTest.png)<br>
+![테스트계정 로그인2](./assets/23.09.17/loginTest.png)<br>
 [그림4] 테스트 계정으로 로그인 된 화면
 
 <br>
@@ -75,7 +75,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 <br> 
 실습을 위해 admin 계정도 미리 만들어 두었고, 이제부터 SQL Injection 테스트를 해 볼 것 입니다.
 
-![test인젝션](./../assets/23.09.17/testInjection2.png)<br>
+![test인젝션](./assets/23.09.17/testInjection2.png)<br>
 [그림5] sql injection 테스트
 
 <br>
@@ -84,7 +84,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 
 <br>
 
-![test인젝션2](./../assets/23.09.17/adminInjection.png)<br>
+![test인젝션2](./assets/23.09.17/adminInjection.png)<br>
 [그림6] sql injection 테스트 2
 
 <br>
@@ -101,7 +101,7 @@ SQL Injection은 사용자의 입력값이 SQL 쿼리문에 영향을 주어 쿼
 
 <br>
 
-![DAO 코드](./../assets/23.09.17/DaoCode.png)<br>
+![DAO 코드](./assets/23.09.17/DaoCode.png)<br>
 [그림7] DAO 코드 중 일부
 
 [그림 7]은 [그림 2]에서 넘어오는 데이터(ID, PW)를 검증하는 코드입니다.
