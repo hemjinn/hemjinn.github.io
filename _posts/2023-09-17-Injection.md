@@ -1,3 +1,15 @@
+---
+layout: post
+current: post
+navigation: True
+title: Injeciton
+categories: Web hacking
+tags: [Web hacking], [SQL Injection]
+class: post-template
+subclass: "post-subclass"
+author: hemjin
+---
+
 # 목차
 [1. SQL Injection 이란?](1.-SQL-Injection-이란?)<br>
 [1.1 공격 목적](1.1-공격-목적)<br>
