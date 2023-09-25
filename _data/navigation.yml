@@ -4,6 +4,10 @@ main:
     url: https://hemjinn.github.io
   - title: "github"
     url: https://github.com/hemjinn
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
